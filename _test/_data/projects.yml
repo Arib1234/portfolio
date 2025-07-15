@@ -1,13 +1,15 @@
-# Project template
-- layout: top-middle
-  name: Project 1
-  link: https://sproogen.github.io/modern-resume-theme
-  github: sproogen/modern-resume-theme
-  quote: >
-    Short overview of the project
-  description: >
-    Description about the work on/with the project
+projects:
+  - name: AR for Human Anatomy
+    startDate: 2024-11
+    description: >
+      Developed an immersive Augmented Reality application using Unity, Vuforia SDK, and Blender. Features interactive 3D models of human organs like brain, heart, skull, and intestines to aid in intuitive learning of human anatomy.
 
-- name: Project 2
-  description: >
-    Description about the work on/with the project
+  - name: Fake News Detection using ML
+    startDate: 2024-06
+    description: >
+      Built a Fake News Detector using ML algorithms like Logistic Regression, Decision Tree, Gradient Boosting, and Random Forest with Kaggle datasets. Achieved high precision and recall metrics. Useful for social media and news platforms.
+
+  - name: Expense Tracker Mobile App
+    startDate: 2023-11
+    description: >
+      A full-featured Android app using Java and Firebase with email verification, CRUD expense management, statistical analysis by date, password recovery, and user authentication features.

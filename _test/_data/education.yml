@@ -1,14 +1,30 @@
-- name: Institution 1
-  dates: 2016 - 2019
-  qualification: Degree
-  quote: >
-    Short institution or course description
-  description: >
-    Description of qualification
+basics:
+  name: Arib Lokhandwala
+  label: BTech Student | AI & Data Science + Cybersecurity (Honours)
+  email: ariblokhandwala65@gmail.com
+  phone: 7021187886
+  website: https://github.com/Arib1234
+  linkedin: arib-lokhandwala-0010821b6
+  github: Arib1234
+  summary: >
+    Grounded and solution-driven engineering student with a strong academic record (CGPA 9.5+), experienced in Cloud Computing, DevOps, Machine Learning, and Computer Networking. Developed impactful projects like AR Human Anatomy, Fake News Detection using ML, and Mobile Expense Tracker App. Certified in AWS and Data Mining. Active learner with hands-on exposure to AWS, Azure, and CCNA domains.
 
-- layout: left
-  name: Institution 2
-  dates: 2013 - 2016
-  qualification: A levels
-  description: >
-    Description of qualification
+education:
+  - institution: K J Somaiya Institute of Technology, Mumbai
+    area: BTech in Artificial Intelligence & Data Science (Honours in Cybersecurity)
+    studyType: Full-time
+    startDate: 2021
+    endDate: 2025
+    gpa: 9.5 / 10
+
+  - institution: Jai Hind College, Churchgate
+    area: Class 12 – PCMB
+    studyType: HSC
+    endDate: 2021
+    gpa: 89.17%
+
+  - institution: St. Mary’s High School, Mazgaon
+    area: Class 10 – SSC
+    studyType: SSC
+    endDate: 2019
+    gpa: 91.2% (2nd rank in school)
