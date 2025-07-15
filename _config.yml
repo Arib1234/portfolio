@@ -127,6 +127,8 @@ content:
 
 # Footer
 footer_show_references: true
+footer_content: "© 2025 Arib Lokhandwala. All rights reserved."
+
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
